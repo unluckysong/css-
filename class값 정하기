@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+<head>
+<style>
+.note {
+    font-size : 120%;
+    color : red;
+}
+</style>
+</head>
+<body>   
+    <h1>my <span class + "note">important</span>heading</h1>
+    <P>this is some <span class = "note">important</span> text.</P>
+</body>
+</html>
